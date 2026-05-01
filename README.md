@@ -1,5 +1,8 @@
 # Al-Noor Quran Academy
 ### Professional Learning Platform
+## Project Gallery
+![Main Screen](Screenshot%2001%202026-05-02%20034410.png)
+![Dashboard](Screenshot%2002%202026-05-02%20034443.png)
 
 ## Project Overview
 Al-Noor Academy is a premium online educational platform designed to provide high-quality Quranic education with a focus on Tajweed and Islamic studies. The website is built with a modern, responsive design to ensure a seamless learning experience for both kids and adults globally.
