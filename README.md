@@ -1,3 +1,17 @@
-Al-Noor Quran Academy - 
-Professional Learning Platform Project Overview 
-Al-Noor Academy is a premium online educational platform designed to provide high-quality Quranic education with a focus on Tajweed and Islamic studies. The website is built with a modern, responsive design to ensure a seamless learning experience for both kids and adults globally.  Key FeaturesCourse Management: Dedicated sections for Noorani Qaida, Tajweed-ul-Quran, and Hifz programs.  Interactive UI: Clean and professional layout featuring certified instructors and student success stories.  Real-time Utilities: Integrated prayer timing system with daily automatic updates.  Responsive Design: Fully optimized for all devices, including mobile and desktop.  User-Friendly Navigation: Easy enrollment process with clear calls-to-action.  Tech StackFrontend: HTML5, CSS3, and modern UI frameworks.  Development Tools: Developed using WordPress ecosystem and optimized for local server environments.  Configuration: Custom server rules implemented via .htaccess for clean, professional URLs.  
+# Al-Noor Quran Academy
+### Professional Learning Platform
+
+## Project Overview
+Al-Noor Academy is a premium online educational platform designed to provide high-quality Quranic education with a focus on Tajweed and Islamic studies. The website is built with a modern, responsive design to ensure a seamless learning experience for both kids and adults globally.
+
+## Key Features
+* **Course Management:** Dedicated sections for Noorani Qaida, Tajweed-ul-Quran, and Hifz programs.
+* **Interactive UI:** Clean and professional layout featuring certified instructors and student success stories.
+* **Real-time Utilities:** Integrated prayer timing system with daily automatic updates.
+* **Responsive Design:** Fully optimized for all devices, including mobile and desktop.
+* **User-Friendly Navigation:** Easy enrollment process with clear calls-to-action.
+
+## Tech Stack
+* **Frontend:** HTML5, CSS3, and modern UI frameworks.
+* **Development Tools:** WordPress ecosystem and optimized local server environments.
+* **Configuration:** Custom server rules via `.htaccess` for clean, professional URLs.
